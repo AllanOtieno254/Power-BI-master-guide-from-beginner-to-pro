@@ -61,35 +61,6 @@ It includes real-world examples, custom visuals, DAX measures, and techniques fo
 5. **Publishing and Sharing**  
    - Export reports to Excel and PowerPoint.  
    - Share and refresh reports for end-users.  
-
----
-
-## 📂 File Structure  
-PowerBI-From-Beginner-to-Pro/
-│
-├── Data/
-│ ├── Raw/
-│ └── Cleaned/
-│
-├── Reports/
-│ ├── Beginner/
-│ ├── Intermediate/
-│ └── Pro/
-│
-├── Visuals/
-│ ├── Themes/
-│ ├── Custom_Visuals/
-│ └── Screenshots/
-│
-├── Scripts/
-│ ├── DAX_Measures/
-│ └── PowerQuery_Transformations/
-│
-├── README.md
-└── LICENSE
-
-
-
 ---
 
 ## 💻 Technologies Used  
